@@ -1,0 +1,4 @@
+export default {
+  REACT_NATIVE_SUPABASE_URL: "https://mysglfqcyckkmbrohkqj.supabase.co",
+  REACT_NATIVE_SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im15c2dsZnFjeWNra21icm9oa3FqIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzgzOTU0MjUsImV4cCI6MTk5Mzk3MTQyNX0.wtjz1tTyhSHmYQud2UJzK8KkPJni_yaNRBsr-L-5Z40"
+};
